@@ -12,9 +12,14 @@ java Assignment1 [your_min_support]
 
 ## Structure
 
-- `Assignment1.java` : a class to implement this assignemnt
+- `A1_G5_t2.java` : a class to implement this assignemnt
 - `CSVReader.java` : a class to convert `groceries.csv` to frequency table
 - `FPGrowth.java` : a class to implement FP-growth algorithm
+
+## Experiments
+
+- `./test_minsup_size.sh` : test with minimum support
+- `./test_transaction_size.sh` : test with transaction size
 
 ## Results
 
