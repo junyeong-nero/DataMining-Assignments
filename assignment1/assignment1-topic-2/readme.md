@@ -1,4 +1,4 @@
-# Data Mining Assignemnt 1 
+# Data Mining Assignemnt 1 Topic2 (FP-growht
 
 - author : junyeong song (magicwho@unist.ac.kr)
 - prof : junghoon kim (Junghoon.kim@unist.ac.kr)
@@ -6,8 +6,8 @@
 ## How to run
 
 ```
-javac Assingment1
-java Assignment1 [your_min_support]
+javac A1_G5_t2
+java A1_G5_t2 [fileDir] [minimumSupport] [debug]
 ```
 
 ## Structure
