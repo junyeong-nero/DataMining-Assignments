@@ -20,7 +20,3 @@ java A1_G5_t2 [fileDir] [minimumSupport] [debug]
 
 - `./test_minsup_size.sh` : test with minimum support
 - `./test_transaction_size.sh` : test with transaction size
-
-## Results
-
-- check outputs/output[minsup].txt
