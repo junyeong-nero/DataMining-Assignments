@@ -1,4 +1,4 @@
-# Data Mining Assignemnt 1 Topic2 (FP-growht
+# DataMining Assignemnt1 Topic2 (FP-growth)
 
 - author : junyeong song (magicwho@unist.ac.kr)
 - prof : junghoon kim (Junghoon.kim@unist.ac.kr)
