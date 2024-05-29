@@ -1,0 +1,600 @@
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_1.txt:
+Silhouette Score: 0.8896596244735343
+Normalized Mutual Information (NMI): 0.4037115299509926
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_2.txt:
+Silhouette Score: 0.9102268636436207
+Normalized Mutual Information (NMI): 0.46416464665128576
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_3.txt:
+Silhouette Score: 0.8896596244735343
+Normalized Mutual Information (NMI): 0.4037115299509926
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_4.txt:
+Silhouette Score: 0.8700932174405117
+Normalized Mutual Information (NMI): 0.40993119925899363
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_5.txt:
+Silhouette Score: 0.8704379666763813
+Normalized Mutual Information (NMI): 0.44038475454706755
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_6.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_7.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_8.txt:
+Silhouette Score: 0.8896596244735343
+Normalized Mutual Information (NMI): 0.40371152995099263
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_9.txt:
+Silhouette Score: 0.7604015600848884
+Normalized Mutual Information (NMI): 0.4276026895411208
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_10.txt:
+Silhouette Score: 0.8741091326412262
+Normalized Mutual Information (NMI): 0.44016473390406763
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_11.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_12.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_13.txt:
+Silhouette Score: 0.8904506275237274
+Normalized Mutual Information (NMI): 0.4603546968390228
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_14.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_15.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_16.txt:
+Silhouette Score: 0.8701005971737455
+Normalized Mutual Information (NMI): 0.42661862377409093
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_17.txt:
+Silhouette Score: 0.8675905797306421
+Normalized Mutual Information (NMI): 0.44031894343135536
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_18.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_19.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_20.txt:
+Silhouette Score: 0.8572902960334392
+Normalized Mutual Information (NMI): 0.4534522538158106
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_21.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_22.txt:
+Silhouette Score: 0.8353674088094082
+Normalized Mutual Information (NMI): 0.39139320262902266
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_23.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_24.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_25.txt:
+Silhouette Score: 0.9244555733590061
+Normalized Mutual Information (NMI): 0.46483964931016547
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_26.txt:
+Silhouette Score: 0.8700932174405117
+Normalized Mutual Information (NMI): 0.40993119925899363
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_27.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_28.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_29.txt:
+Silhouette Score: 0.7630462736195914
+Normalized Mutual Information (NMI): 0.4203591428861955
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_30.txt:
+Silhouette Score: 0.7542663615628734
+Normalized Mutual Information (NMI): 0.42494968070756245
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_31.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_32.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_33.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_34.txt:
+Silhouette Score: 0.9244555733590061
+Normalized Mutual Information (NMI): 0.46483964931016547
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_35.txt:
+Silhouette Score: 0.8866529778902799
+Normalized Mutual Information (NMI): 0.4620071332908962
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_36.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_37.txt:
+Silhouette Score: 0.7558300996200442
+Normalized Mutual Information (NMI): 0.417034840051549
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_38.txt:
+Silhouette Score: 0.8728706514372119
+Normalized Mutual Information (NMI): 0.44067315247343275
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_39.txt:
+Silhouette Score: 0.7604428866561446
+Normalized Mutual Information (NMI): 0.4245234685480074
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_40.txt:
+Silhouette Score: 0.8704182342032606
+Normalized Mutual Information (NMI): 0.39997162159677574
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_41.txt:
+Silhouette Score: 0.851441130189655
+Normalized Mutual Information (NMI): 0.39966377689331545
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_42.txt:
+Silhouette Score: 0.8380050276979724
+Normalized Mutual Information (NMI): 0.36362041131122097
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_43.txt:
+Silhouette Score: 0.7660876937409608
+Normalized Mutual Information (NMI): 0.422365272953706
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_44.txt:
+Silhouette Score: 0.9244555733590061
+Normalized Mutual Information (NMI): 0.46483964931016547
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_45.txt:
+Silhouette Score: 0.8946682097144536
+Normalized Mutual Information (NMI): 0.45866330618128154
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_46.txt:
+Silhouette Score: 0.9244555733590061
+Normalized Mutual Information (NMI): 0.46483964931016547
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_47.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_48.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_49.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_50.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_51.txt:
+Silhouette Score: 0.7541518163359527
+Normalized Mutual Information (NMI): 0.3061666454922049
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_52.txt:
+Silhouette Score: 0.7522802799082104
+Normalized Mutual Information (NMI): 0.41579033392021747
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_53.txt:
+Silhouette Score: 0.7638851424639578
+Normalized Mutual Information (NMI): 0.4125440870810245
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_54.txt:
+Silhouette Score: 0.8380050276979724
+Normalized Mutual Information (NMI): 0.36362041131122097
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_55.txt:
+Silhouette Score: 0.9244555733590061
+Normalized Mutual Information (NMI): 0.46483964931016547
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_56.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_57.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_58.txt:
+Silhouette Score: 0.7916651267018951
+Normalized Mutual Information (NMI): 0.42946022379975674
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_59.txt:
+Silhouette Score: 0.9244555733590061
+Normalized Mutual Information (NMI): 0.46483964931016547
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_60.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_61.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_62.txt:
+Silhouette Score: 0.8896596244735343
+Normalized Mutual Information (NMI): 0.4037115299509926
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_63.txt:
+Silhouette Score: 0.7670163280736189
+Normalized Mutual Information (NMI): 0.41508833348732344
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_64.txt:
+Silhouette Score: 0.8514819592228063
+Normalized Mutual Information (NMI): 0.3995296877313462
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_65.txt:
+Silhouette Score: 0.8493887207711652
+Normalized Mutual Information (NMI): 0.34877901615721746
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_66.txt:
+Silhouette Score: 0.7558719632149722
+Normalized Mutual Information (NMI): 0.41998698481187813
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_67.txt:
+Silhouette Score: 0.8896596244735343
+Normalized Mutual Information (NMI): 0.4037115299509926
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_68.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_69.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_70.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_71.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_72.txt:
+Silhouette Score: 0.7645930753913592
+Normalized Mutual Information (NMI): 0.4198257486725123
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_73.txt:
+Silhouette Score: 0.7541518163359527
+Normalized Mutual Information (NMI): 0.3061666454922049
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_74.txt:
+Silhouette Score: 0.8700932174405117
+Normalized Mutual Information (NMI): 0.40993119925899363
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_75.txt:
+Silhouette Score: 0.7617140315844088
+Normalized Mutual Information (NMI): 0.42221114737182214
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_76.txt:
+Silhouette Score: 0.8700932174405117
+Normalized Mutual Information (NMI): 0.40993119925899363
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_77.txt:
+Silhouette Score: 0.8527210100989836
+Normalized Mutual Information (NMI): 0.45568475085818044
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_78.txt:
+Silhouette Score: 0.9243561670076722
+Normalized Mutual Information (NMI): 0.4663161025742715
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_79.txt:
+Silhouette Score: 0.9244555733590061
+Normalized Mutual Information (NMI): 0.46483964931016547
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_80.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_81.txt:
+Silhouette Score: 0.8700932174405117
+Normalized Mutual Information (NMI): 0.40993119925899363
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_82.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_83.txt:
+Silhouette Score: 0.8700932174405117
+Normalized Mutual Information (NMI): 0.40993119925899363
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_84.txt:
+Silhouette Score: 0.8863100023814046
+Normalized Mutual Information (NMI): 0.43119132741583166
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_85.txt:
+Silhouette Score: 0.8896596244735343
+Normalized Mutual Information (NMI): 0.4037115299509926
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_86.txt:
+Silhouette Score: 0.8701005971737455
+Normalized Mutual Information (NMI): 0.42661862377409093
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_87.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_88.txt:
+Silhouette Score: 0.8887818617784277
+Normalized Mutual Information (NMI): 0.4607335582805732
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_89.txt:
+Silhouette Score: 0.7472447631173184
+Normalized Mutual Information (NMI): 0.4326001558063734
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_90.txt:
+Silhouette Score: 0.7563379237017315
+Normalized Mutual Information (NMI): 0.41304504489653066
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_91.txt:
+Silhouette Score: 0.9081746445668961
+Normalized Mutual Information (NMI): 0.44450469185691155
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_92.txt:
+Silhouette Score: 0.7903541174872556
+Normalized Mutual Information (NMI): 0.4362451943681814
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_93.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_94.txt:
+Silhouette Score: 0.8254345894719494
+Normalized Mutual Information (NMI): 0.3097529821649983
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_95.txt:
+Silhouette Score: 0.8380050276979724
+Normalized Mutual Information (NMI): 0.3636204113112209
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_96.txt:
+Silhouette Score: 0.748598598756467
+Normalized Mutual Information (NMI): 0.42763818083175353
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_97.txt:
+Silhouette Score: 0.7558861191558325
+Normalized Mutual Information (NMI): 0.41444671929292987
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_98.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_99.txt:
+Silhouette Score: 0.768983176628928
+Normalized Mutual Information (NMI): 0.4177770317965909
+
+==================================================
+
+Results for /Users/geumrin/Downloads/A2/KMEANS-java/results/clusters_output_100.txt:
+Silhouette Score: 0.8587133314442431
+Normalized Mutual Information (NMI): 0.3672666706254965
+
+==================================================
+
